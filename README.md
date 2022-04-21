@@ -1,1 +1,1 @@
-# web-sever-practice
+# web-server-practice
